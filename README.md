@@ -1,2 +1,14 @@
-# 211830531-sistem-operasi
-Berisi source code pada mata kuliah sistem operasi
+
+# 📚 Sistem Operasi
+
+This repository contains a collection of programming code from the **Operating System** course at my university with a total of 3 credits.
+
+
+## ⚙️ Tech Stack
+
+- Full Of **C++**
+
+
+## ⚠️ License
+
+- [MIT](https://choosealicense.com/licenses/mit/)
